@@ -1,0 +1,4 @@
+Z:\SharFTrade\extTest2\obj\Debug\netstandard2.0\extTest2.AssemblyInfoInputs.cache
+Z:\SharFTrade\extTest2\obj\Debug\netstandard2.0\extTest2.AssemblyInfo.fs
+Z:\SharFTrade\extTest2\obj\Debug\netstandard2.0\extTest2.pdb
+Z:\SharFTrade\extTest2\obj\Debug\netstandard2.0\extTest2.fsprojAssemblyReference.cache

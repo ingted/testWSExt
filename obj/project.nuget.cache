@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKAIxRsuUvuoRg6Ieth0Gus+3JFA4cvWvQbQBcnXlJOSuSciRyPV2Hr/UTKE+1sDvbJbvpHTWgxp+fffG+nxCQ==",
+  "success": true,
+  "projectFilePath": "Z:\\SharFTrade\\extTest2\\extTest2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anibal\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\websharper\\4.7.0.423\\websharper.4.7.0.423.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\websharper.fsharp\\4.7.0.423\\websharper.fsharp.4.7.0.423.nupkg.sha512"
+  ],
+  "logs": []
+}
